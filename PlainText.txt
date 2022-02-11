@@ -1,0 +1,4 @@
+Version: 1.0.0
+
+MabelMedia Closed Sourced Proprietary Software Licence
+Clause 1: Usage
