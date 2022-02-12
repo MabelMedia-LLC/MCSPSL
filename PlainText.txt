@@ -12,9 +12,9 @@ Preamble: Definitions
 Clause 1: Redistribution
   Section 1: General
   - Any Distribution Of Owner's Products' Source Code Is Prohibited.
-  Section 2: Free Software
+  Section 2: Free
   - Only Unmodified Binary Versions Of The Product May Be Distributed.
-  Section 3: Paid Software
+  Section 3: Paid
   - Only Unmodified Binary Versions Of The Free Trial May Be Distributed.
 Clause 2: Modification
   Any And All Modifications Of The Product Shall Invalidate Clause 1, For That Copy.
