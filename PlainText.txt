@@ -10,15 +10,12 @@ Preamble: Definitions
 - "Lent" Shall Mean Granted Temporarily.
 - "Copy" Shall Mean The Version Of The Product You Received From The Owner.
 Clause 1: Redistribution
-  Section 1: General
-  - Any Distribution Of Owner's Products' Source Code Is Prohibited.
-  Section 2: Free
-  - Only Unmodified Binary Versions Of The Product May Be Distributed.
-  Section 3: Paid
-  - Only Unmodified Binary Versions Of The Free Trial May Be Distributed.
+- Any Distribution Of Owner's Products' Source Code Is Prohibited.
+- Only Unmodified Binary Versions Of A Free Product May Be Distributed.
+- Only Unmodified Binary Versions Of A Paid Product's Free Trial May Be Distributed.
 Clause 2: Modification
-  - Any And All Modifications Of The Product Shall Invalidate Clause 1, For That Copy.
-  - If A Problem Is Discovered, You Are Required To File A Problem Report For That Product.
-  - If The Report Does Not Have Activity Within 30 Days, 7 If The Problem Will Cause Impairment To Major Product Functionality, Then You Are Lent The Right To Reverse Engineer The Product To Find A Solution To The Problem
-  - Source Code Gathered By Reverse Engineering Must Not Be Used For The Development Of Other Products Not Owned By The Owner.
-  - If You Find Such A Solution, You Are Required To Establish A Private Band Of Communication With The Owner, And Provide Any And All Patches To Solve The Problem.
+- Any And All Modifications Of The Product Shall Invalidate Clause 1, For That Copy.
+- If A Problem Is Discovered, You Are Required To File A Problem Report For That Product.
+- If The Report Does Not Have Activity Within 30 Days, 7 If The Problem Will Cause Impairment To Major Product Functionality, Then You Are Lent The Right To Reverse Engineer The Product To Find A Solution To The Problem
+- Source Code Gathered By Reverse Engineering Must Not Be Used For The Development Of Other Products Not Owned By The Owner.
+- If You Find Such A Solution, You Are Required To Establish A Private Band Of Communication With The Owner, And Provide Any And All Patches To Solve The Problem.
