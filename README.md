@@ -1,2 +1,2 @@
 # MCSPSL
-Repo For MCSPSL License Files, For https://web.mabelisyt.co.
+The MCSPSL License, Used By All MabelMedia LLC Software.
