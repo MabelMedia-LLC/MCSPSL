@@ -1,6 +1,5 @@
-Version: 1.0.5
+MabelMedia Closed Sourced Proprietary Software Licence, v1.0.1
 
-MabelMedia Closed Sourced Proprietary Software Licence
 Preamble: Definitions
 - "Owner" Shall Mean The Copyright Owner That Is Granting The License.
 - "Free Trial" Shall Mean The Free, But Functionally Impaired Version Of A Paid Product.
@@ -9,10 +8,12 @@ Preamble: Definitions
 - "Problem" Shall Mean A Product Bug, Exploit, Or Vulnerability.
 - "Lent" Shall Mean Granted Temporarily.
 - "Copy" Shall Mean The Version Of The Product You Received From The Owner.
+
 Clause 1: Redistribution
 - Any Distribution Of Owner's Products' Source Code Is Prohibited.
 - Only Unmodified Binary Versions Of A Free Product May Be Distributed.
 - Only Unmodified Binary Versions Of A Paid Product's Free Trial May Be Distributed.
+
 Clause 2: Modification
 - Any And All Modifications Of The Product Shall Invalidate Clause 1, For That Copy.
 - If A Problem Is Discovered, You Are Required To File A Problem Report For That Product.
